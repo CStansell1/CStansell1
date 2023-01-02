@@ -1,4 +1,4 @@
-<h1>Hi, I'm Cyril! <br/><a href="https://github.com/cstansell1">Programmer</a>, <a href="(https://www.linkedin.com/in/cyrilstansell)">Cloud Engineer and Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Cyril! <br/><a href="https://github.com/cstansell1">Cloud Engineer and Cybersecurity Professional</a>, <a href="(https://www.linkedin.com/in/cyrilstansell)"></a><a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 Cloud Computing Projects:</h2>
 
